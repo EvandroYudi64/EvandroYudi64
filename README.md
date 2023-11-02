@@ -7,7 +7,7 @@
 
 ## Conhecimentos e Habilidades
 
-- 💻 Linguagens de Programação: C, C#, Lua, Java, JavaScript
+- 💻 Linguagens de Programação: C, C#, Lua, Java, JavaScript e PHP
 - 🛢️ Bancos de Dados: Postgres, MySQL
 
 ## Contato
