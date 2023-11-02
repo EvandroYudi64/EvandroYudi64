@@ -8,7 +8,7 @@
 ## Conhecimentos e Habilidades
 
 - 💻 Linguagens de Programação: C, C#, Lua, Java, JavaScript e PHP
-- 🛢️ Bancos de Dados: Postgres, MySQL
+- 🛢️ Bancos de Dado: Postgres, MySQL
 
 ## Contato
 
