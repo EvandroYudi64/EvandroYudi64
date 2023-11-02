@@ -1,11 +1,18 @@
-### Hi there 👋
-Teste
+# Bem-vindo ao meu perfil!
 
-## Habilidades
+## Sobre Mim
 
-- Linguagem de Programação: Teste
-- ...
+👨‍🎓  Olá, sou estudante de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) <br>
+👀  Tenho interesse nas áreas de desenvolvimento web, interação humano-computador (IHC) e ciência de dados
 
-## Projetos
+## Conhecimentos e Habilidades
 
-Teste
+- 💻 Linguagens de Programação: C, C#, Lua, Java, JavaScript
+- 🛢️ Bancos de Dados: Postgres, MySQL
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/evandro-yudi-alves-ribeiro/) <br>
+[E-mail](mailto:evandroyudialves@gmail.com)
+
+
