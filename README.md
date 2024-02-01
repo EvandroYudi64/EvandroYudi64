@@ -2,8 +2,8 @@
 
 ## Sobre Mim
 
-👨‍🎓  Olá, sou estudante de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) <br>
-👀  Tenho interesse nas áreas de desenvolvimento de software, interação humano-computador (IHC) e ciência de dados
+👨‍🎓  Olá, sou graduado em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) <br>
+👀  Tenho interesse nas áreas de Desenvolvimento de software, Desenvolvimento web, Interação Humano-Computador (IHC), Dados, Redes e APIs.
 
 ## Conhecimentos e Habilidades
 
