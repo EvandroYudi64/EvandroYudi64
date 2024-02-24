@@ -7,8 +7,9 @@
 
 ## Conhecimentos e Habilidades
 
-- 💻 Linguagens de Programação: C, C#, Java, JavaScript e PHP
+- 💻 Linguagens de Programação: C, C#, Java, JavaScript (Node.js, React.js) e PHP
 - 🛢️ Banco de Dados: Postgres, MySQL
+- ⚙ Estudando desenvolvimento e documentação de Rest/Restful APIs
 
 ## Contato
 
