@@ -18,6 +18,7 @@
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/evandro-yudi-alves-ribeiro/) <br>
+[Lattes](http://lattes.cnpq.br/5420817707631735) <br>
 [E-mail](mailto:evandroyudialves@gmail.com)
 
 
