@@ -6,8 +6,9 @@
 🎓  Atualmente Mestrando no Departamento de Computação da Universidade Federal de São Carlos (UFSCar) <br>
 
 📚  Linha de pesquisa: Computação Centrada no Humano <br>
+📚  Atualmente estudando aplicação de Machine Learning em IHC <br>
 
-👀  Tenho interesse nas áreas de Desenvolvimento de software, Desenvolvimento web, Interação Humano-Computador (IHC), Dados, Redes e APIs.
+👀  Tenho interesse e estudo as áreas de Desenvolvimento de software, Desenvolvimento web, Interação Humano-Computador (IHC), Dados, APIs, Aprendizado de máquina.
 
 ## Conhecimentos e Habilidades
 
