@@ -1,6 +1,6 @@
-##Welcome!
+## Welcome!
 
-##About Me
+## About Me
 
 👨‍🎓 I hold a Bachelor's degree in Computer Science from the Federal Institute of Education, Science, and Technology of São Paulo (IFSP) <br>
 🎓 Currently pursuing a Master's degree in the Department of Computing at the Federal University of São Carlos (UFSCar) <br>
@@ -12,7 +12,7 @@
 
 ⚙ Currently researching the integration of NLP techniques with traditional ML models for detecting depression.
 
-##Knowledge and Skills
+## Knowledge and Skills
 
 💻 Programming: C, C#, Java and Python
 💻 Web Development: JavaScript (Node.js) and PHP
