@@ -8,16 +8,16 @@
 📚 Research area: Human-Centered Computing <br>
 📚 Currently studying Machine Learning applications in HCI <br>
 
-👀 I am interested in and study the areas of Human-Computer Interaction (HCI), Data Science, APIs, Machine Learning (mostly Ensemble Learning, Deep Learning and Natural Language Processing).
+👀 I am interested in and study the areas of Human-Computer Interaction (HCI), Data Science, APIs, Machine Learning (mostly Ensemble Learning, Deep Learning and Natural Language Processing).<br>
 
-⚙ Currently researching the integration of NLP techniques with traditional ML models for detecting depression.
+⚙ Currently researching the integration of NLP techniques with traditional ML models for detecting depression.<br>
 
 ## Knowledge and Skills
 
-💻 Programming: C, C#, Java and Python
-💻 Web Development: JavaScript (Node.js) and PHP
-🛢️ Databases: Postgres, MySQL
-⚙️ Data Analysis and Machine Learning: Python (Pandas, NumPy, SciPy, Scikit-learn, PyTorch)
+💻 Programming: C, C#, Java and Python<br>
+💻 Web Development: JavaScript (Node.js) and PHP<br>
+🛢️ Databases: Postgres, MySQL<br>
+⚙️ Data Analysis and Machine Learning: Python (Pandas, NumPy, SciPy, Scikit-learn, PyTorch)<br>
 
 ## Contato
 
