@@ -1,20 +1,23 @@
-# Bem-vindo!
+##Welcome!
 
-## Sobre Mim
+##About Me
 
-👨‍🎓  Olá, sou graduado em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) <br>
-🎓  Atualmente Mestrando no Departamento de Computação da Universidade Federal de São Carlos (UFSCar) <br>
+👨‍🎓 I hold a Bachelor's degree in Computer Science from the Federal Institute of Education, Science, and Technology of São Paulo (IFSP) <br>
+🎓 Currently pursuing a Master's degree in the Department of Computing at the Federal University of São Carlos (UFSCar) <br>
 
-📚  Linha de pesquisa: Computação Centrada no Humano <br>
-📚  Atualmente estudando aplicação de Machine Learning em IHC <br>
+📚 Research area: Human-Centered Computing <br>
+📚 Currently studying Machine Learning applications in HCI <br>
 
-👀  Tenho interesse e estudo as áreas de Desenvolvimento de software, Desenvolvimento web, Interação Humano-Computador (IHC), Dados, APIs, Aprendizado de máquina.
+👀 I am interested in and study the areas of Human-Computer Interaction (HCI), Data Science, APIs, Machine Learning (mostly Ensemble Learning, Deep Learning and Natural Language Processing).
 
-## Conhecimentos e Habilidades
+⚙ Currently researching the integration of NLP techniques with traditional ML models for detecting depression.
 
-- 💻 Linguagens de Programação: C, C#, Java, JavaScript (Node.js, React.js) e PHP
-- 🛢️ Banco de Dados: Postgres, MySQL
-- ⚙ Estudando desenvolvimento e documentação de Rest/Restful APIs
+##Knowledge and Skills
+
+💻 Programming: C, C#, Java and Python
+💻 Web Development: JavaScript (Node.js) and PHP
+🛢️ Databases: Postgres, MySQL
+⚙️ Data Analysis and Machine Learning: Python (Pandas, NumPy, SciPy, Scikit-learn, PyTorch)
 
 ## Contato
 
